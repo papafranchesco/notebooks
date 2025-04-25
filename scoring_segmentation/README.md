@@ -1,1 +1,1 @@
-This project aims to create a customer portrait for credit scoring using customer segmentation (both supervised and unsupervised learning -- namely, K-means clustering and decision tree). The dataset is the augmented version of HAR dataset from UCI ML Repo.
+This project aims to create a customer portrait for credit scoring using customer segmentation (both supervised and unsupervised learning -- namely, K-means clustering and decision tree).
